@@ -14,7 +14,7 @@ npm run dev
 # or
 yarn dev
 ```
-then just Open http://localhost:3000 with your browser to see your new project!🚀
+then just Open http://localhost:3000 with your browser to see your new project!
 
-## 🧐 what's inside ! 
+## what's inside ! 
 This Starter includes [next js](https://nextjs.org) and [Tailwind Css](https://tailwindcss.com) & [axios](https://axios-http.com) and ready Context API
