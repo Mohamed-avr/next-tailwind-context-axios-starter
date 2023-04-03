@@ -16,4 +16,4 @@ yarn dev
 ```
 
 ## 🧐 what's inside ! 
-This Starter includes [next js](https://nextjs.org) and [https://tailwindcss.com](tailwind css) & [https://axios-http.com](axios) and ready Context API
+This Starter includes [next js](https://nextjs.org) and [Tailwind Css](https://tailwindcss.com) & [axios](https://axios-http.com) and ready Context API
