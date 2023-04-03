@@ -1,6 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+<<<<<<< HEAD
 ## Getting Started
+=======
+## 🚀 Getting Started
+>>>>>>> e559dd99f4873d96efe1a3d77b77ca7d91b2826c
 superpower next js stater 
 #### Run the following command to create a new project with this Starter:
 ```bash
@@ -15,3 +18,10 @@ npm run dev
 # or
 yarn dev
 ```
+<<<<<<< HEAD
+=======
+then just Open http://localhost:3000 with your browser to see your new project!
+
+## what's inside ! 
+This Starter includes [next js](https://nextjs.org) and [Tailwind Css](https://tailwindcss.com) & [axios](https://axios-http.com) and ready Context API
+>>>>>>> e559dd99f4873d96efe1a3d77b77ca7d91b2826c
