@@ -2,7 +2,7 @@ import { useContext } from 'react'
 import AppContext from '../../components/appContext'
 import Link from 'next/link';
 
-
+// npx create-next-app my-starter -e https://github.com/Mohamed-avr/next-tailwind-context-axios-starter
 
 export default function blog() {
     const {data} = useContext(AppContext);
