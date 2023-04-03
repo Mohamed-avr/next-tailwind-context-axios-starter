@@ -1,5 +1,5 @@
 
-## Getting Started
+## 🚀 Getting Started
 superpower next js stater 
 #### Run the following command to create a new project with this Starter:
 ```bash
@@ -14,3 +14,6 @@ npm run dev
 # or
 yarn dev
 ```
+
+## 🧐 what's inside ! 
+This Starter includes [https://nextjs.org](nextjs) and [https://tailwindcss.com](tailwind css) & [https://axios-http.com](axios) and ready Context API
