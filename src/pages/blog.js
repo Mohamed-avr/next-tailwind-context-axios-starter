@@ -4,7 +4,7 @@ import Link from 'next/link';
 
 // npx create-next-app my-starter -e https://github.com/Mohamed-avr/next-tailwind-context-axios-starter
 
-export default function blog() {
+export default function Blog() {
     const {data} = useContext(AppContext);
  
 
